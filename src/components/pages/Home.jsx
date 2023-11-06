@@ -1,4 +1,4 @@
-import Videos from "../videos"
+import Videos from "../Videos"
 
 export default function Home() {
     return (
