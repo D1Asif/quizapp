@@ -28,7 +28,7 @@ export default function useFetch(prompt) {
             }
         }
         fetchPhoto();
-    }, []);
+    }, [prompt]);
 
     return {
         photo,
